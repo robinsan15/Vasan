@@ -1,1 +1,1 @@
-# Vasancal
+# VasanCalculator
